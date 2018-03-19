@@ -5,4 +5,5 @@ Datasets are obtained from [Here](https://www.superdatascience.com/deep-learning
 
 ## Links to the Notebooks in this repository are here:
 
-[Simple Gradient Descent Perceptron](https://nbviewer.jupyter.org/github/TarunSunkaraneni/Neural-Networks/blob/master/Perceptron/Simple%20Gradient%20Descent%20Perceptron.ipynb)
+[Simple Gradient Descent Perceptron](https://github.com/TarunSunkaraneni/Neural-Networks/blob/master/Gradient%20Descent/Simple%20Gradient%20Descent%20Perceptron.ipynb)
+[Optimized Gradient Descent](https://nbviewer.jupyter.org/github/TarunSunkaraneni/Neural-Networks/blob/master/Gradient%20Descent/Optimized%20Gradient%20Descent%20Neural%20Net.ipynb)
