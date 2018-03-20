@@ -1,6 +1,6 @@
 # Neural-Networks
 Learning Neural Networks and Deep Learning
-This is closely followed by a [Udemy Class](https://www.google.com).
+This is closely followed by a [Udemy Class](https://www.udemy.com/deeplearning/learn/v4/overview).
 Datasets are obtained from [Here](https://www.superdatascience.com/deep-learning/)
 
 ## Links to the Notebooks in this repository are here:
