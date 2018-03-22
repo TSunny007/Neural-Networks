@@ -9,4 +9,4 @@ Datasets are obtained from [Here](https://www.superdatascience.com/deep-learning
 
 [Optimized Gradient Descent](https://nbviewer.jupyter.org/github/TarunSunkaraneni/Neural-Networks/blob/master/Gradient%20Descent/Optimized%20Gradient%20Descent%20Neural%20Net.ipynb)
 
-[ANN Bank Customer Classification](https://github.com/TarunSunkaraneni/Neural-Networks/blob/master/Deep_Learning/Supervised%20Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/ANN/Notebook/ANN_Bank_Customer_Classification.ipynb)
+[Bank Customer Classification using an Atrificial Neural Network](https://github.com/TarunSunkaraneni/Neural-Networks/blob/master/Deep_Learning/Supervised%20Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/ANN/Notebook/ANN_Bank_Customer_Classification.ipynb)
